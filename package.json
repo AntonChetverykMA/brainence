@@ -48,5 +48,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://AntonChetveryk.github.io/movie_app"
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "homepage": "https://AntonChetveryk.github.io/brainence"
 }
