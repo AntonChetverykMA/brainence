@@ -6,7 +6,7 @@ import AddProduct from './components/Pages/AddProduct/AddProduct';
 
 function App() {
   return (
-    <Router>
+    <Router basename='brainence'>
       <Switch>
         <Layout>
           <Route exact path='/' component={ProductList} />
