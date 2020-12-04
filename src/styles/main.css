@@ -6,16 +6,16 @@ form {
   width: 80%;
 }
 
+body {
+  background: whitesmoke;
+}
+
 .add {
   display: block;
   margin: auto;
   background: black;
   color: white;
   font-weight: bolder;
-}
-
-.nav-link {
-  color: black;
 }
 
 .card {
@@ -54,6 +54,11 @@ form {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
+}
+
+#search {
+  background: white;
+  border-radius: 10px;
 }
 
 @media (max-width: 992px) {

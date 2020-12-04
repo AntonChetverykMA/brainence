@@ -28,7 +28,6 @@ function ProductList(props) {
               className='form-control-plaintext'
               id='search'
               value={search}
-              placeholder='search'
               onChange={(e) => setSearch(e.target.value)}
             ></input>
           </div>

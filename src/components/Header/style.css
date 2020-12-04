@@ -2,6 +2,14 @@
   font-weight: bold;
 }
 
-.navLink {
+.nav {
+  background-color: black;
+}
+
+.nav-link {
   color: white;
+}
+
+.nav-link:hover {
+  color: gold;
 }

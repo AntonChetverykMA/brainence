@@ -12,7 +12,7 @@ function AddProduct(props) {
   let history = useHistory();
 
   return (
-    <div className='d-flex justify-content-center'>
+    <div className='d-flex justify-content-center mt-4'>
       <form>
         <div className='form-group'>
           <label htmlFor='name'>Name of product</label>
